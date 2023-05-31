@@ -7,8 +7,8 @@
 
 <div align="center">
   
-  <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreihammes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreihammes&theme=midnight-purple&hide_border=false&&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreihammes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreihammes&theme=midnight-purple&hide_border=false&&layout=compact"/>
 </div>
 
 
