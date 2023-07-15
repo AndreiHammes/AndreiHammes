@@ -27,6 +27,7 @@
 
 
 ![Snake animation](https://github.com/AndreiHammes/AndreiHammes/blob/output/github-contribution-grid-snake.svg)
+
 <br>
   
   <img src="https://media.giphy.com/media/MwsLT5fj4c25fIn9Hm/giphy.gif" width="40">
