@@ -24,12 +24,10 @@
     <img align="center" height="40" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align ="center" height="40" width="50" alt="figma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="center" alt="Dart-icon" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <img align="center" alt="Dart-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
+    <img align="center" alt="Dart-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
    </div>
 
-<br>
-  
+<br><br>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlkOXZjczl1Z2c0cmdxdXg0bHFmdW9tYnlqd2hycXV2Ynd1c3ZleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80">
 
