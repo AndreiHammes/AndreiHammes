@@ -30,8 +30,10 @@
 
 <br>
   
-  <img src="https://media.giphy.com/media/MwsLT5fj4c25fIn9Hm/giphy.gif" width="40">
-  <img src="https://media.giphy.com/media/HU2H0A0sLnbiLgY6zX/giphy.gif" width="40">
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlkOXZjczl1Z2c0cmdxdXg0bHFmdW9tYnlqd2hycXV2Ynd1c3ZleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80">
+
+  
 
   
 
