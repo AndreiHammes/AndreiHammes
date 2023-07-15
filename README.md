@@ -25,13 +25,6 @@
     <img align="center" alt="Dart-icon" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
    </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreihammes/andreihammes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreihammes/andreihammes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andreihammes/andreihammes/output/github-contribution-grid-snake.svg">
-</picture>
-
 <br>
   
   <img src="https://media.giphy.com/media/MwsLT5fj4c25fIn9Hm/giphy.gif" width="40">
