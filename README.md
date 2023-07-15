@@ -30,6 +30,8 @@
 
 <br>
 
+![Snake animation](https://github.com/andreihammes/andreihammes/blob/output/github-contribution-grid-snake.svg)
+
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlkOXZjczl1Z2c0cmdxdXg0bHFmdW9tYnlqd2hycXV2Ynd1c3ZleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80">
 
   
