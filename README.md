@@ -14,7 +14,8 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
-  Melhores Tecnologias <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
+  Melhores Tecnologias
+  <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
 </h1>
 
 <div  align="center"> 
@@ -27,7 +28,7 @@
     <img align="center" alt="Dart-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
    </div>
 
-<br><br>
+<br>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlkOXZjczl1Z2c0cmdxdXg0bHFmdW9tYnlqd2hycXV2Ynd1c3ZleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80">
 
