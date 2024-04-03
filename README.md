@@ -34,6 +34,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlkOXZjczl1Z2c0cmdxdXg0bHFmdW9tYnlqd2hycXV2Ynd1c3ZleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80">
   </div>
 
+  <br>
+
+<h1 align="center" style="margin-bottom: 0;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM1emN6N3N4ZWJiaDk1NXkzdHg0dnR5dGIzYzN0Y3pyMXVxN201MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YPUh8SkoYuurwwV4bz/giphy.gif" width="30">Projetos<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM1emN6N3N4ZWJiaDk1NXkzdHg0dnR5dGIzYzN0Y3pyMXVxN201MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YPUh8SkoYuurwwV4bz/giphy.gif" width="30">
+</h1>
+  
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+
 <div align="center"> 
   <a href="https://github.com/AndreiHammes">
     <img src="https://media.licdn.com/dms/image/D4D22AQHHEJ3fB8t7Og/feedshare-shrink_2048_1536/0/1709083090354?e=1715212800&v=beta&t=hJx4hiY4lOySdBy4nmNM6gGR5eBUTJZUySvGzdmqxgM" width="250px" height="135">
