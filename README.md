@@ -34,7 +34,26 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlkOXZjczl1Z2c0cmdxdXg0bHFmdW9tYnlqd2hycXV2Ynd1c3ZleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80">
   </div>
 
+<div align="center"> 
+  <a href="https://github.com/AndreiHammes">
+    <img src="https://media.licdn.com/dms/image/D4D22AQHHEJ3fB8t7Og/feedshare-shrink_2048_1536/0/1709083090354?e=1715212800&v=beta&t=hJx4hiY4lOySdBy4nmNM6gGR5eBUTJZUySvGzdmqxgM" width="250px" height="135">
+  </a>
+    <a href="https://github.com/AndreiHammes">
+    <img src="https://raw.githubusercontent.com/AndreiHammes/projeto_erro-404/main/img/img-readme.png" width="250px" height="135">
+  </a>
+    <a href="https://github.com/AndreiHammes">
+    <img src="https://media.licdn.com/dms/image/D4D22AQHL7tSPbrFJlQ/feedshare-shrink_800/0/1707886150894?e=1715212800&v=beta&t=fdl4X_pk6ChPJW1cO4f1x4bpC8n4v1E-edS6Bf3mqW4" width="250px" height="135">
+  </a>
+    <a href="https://github.com/AndreiHammes">
+    <img src="https://media.licdn.com/dms/image/C4D22AQF4NzG7Z7wK8A/feedshare-shrink_800/0/1678945220029?e=1715212800&v=beta&t=7GUSzXYFHBVC0tTZfrA5MKiwOUTdTyL7PajZuL_184g" width="250px" height="135">
+  </a>
+  <a href="https://github.com/AndreiHammes">
+    <img src="https://raw.githubusercontent.com/AndreiHammes/Pokedex/main/src/img/readme-img.png" width="250px" height="135">
+  </a>
+
   
+</div>
+
 
 
 
