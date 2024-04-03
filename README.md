@@ -1,9 +1,15 @@
+<div align="center" style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=42C920&lines=Hello,+I+am+Andrei+💫;I+am+a+Full-Stack+developer+💻;welcome+to+my+profile+" alt="Typing SVG">
+  </a>
+</div>
 
-<h1 align="center">
+<h1 align="center" style="margin-bottom: 0;">
   <img src="https://media.giphy.com/media/vGWZEktceb6HS/giphy.gif" width="30">
   Andrei Hammes <img src="https://media.giphy.com/media/vGWZEktceb6HS/giphy.gif" width="30">
 </h1>
 
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <div align="center">
   
@@ -14,25 +20,19 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
-  Melhores Tecnologias
+  Skills
   <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
 </h1>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align ="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img align="center" height="40" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="40" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="git-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-   </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode,notion&perline=14" />
+</div>
 
 <br>
 
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlkOXZjczl1Z2c0cmdxdXg0bHFmdW9tYnlqd2hycXV2Ynd1c3ZleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80">
-
-  
+  </div>
 
   
 
