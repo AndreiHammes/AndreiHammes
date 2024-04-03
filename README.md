@@ -43,19 +43,19 @@
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <div align="center"> 
-  <a href="https://github.com/AndreiHammes">
+  <a href="https://andreihammes.github.io/player-de-musica/" target="_blank">
     <img src="https://media.licdn.com/dms/image/D4D22AQHHEJ3fB8t7Og/feedshare-shrink_2048_1536/0/1709083090354?e=1715212800&v=beta&t=hJx4hiY4lOySdBy4nmNM6gGR5eBUTJZUySvGzdmqxgM" width="250px" height="135">
   </a>
-    <a href="https://github.com/AndreiHammes">
+    <a href="https://andreihammes.github.io/projeto_erro-404/" target="_blank">
     <img src="https://raw.githubusercontent.com/AndreiHammes/projeto_erro-404/main/img/img-readme.png" width="250px" height="135">
   </a>
-    <a href="https://github.com/AndreiHammes">
+    <a href="https://andreihammes.github.io/Projeto-Dark-Souls/" target="_blank">
     <img src="https://media.licdn.com/dms/image/D4D22AQHL7tSPbrFJlQ/feedshare-shrink_800/0/1707886150894?e=1715212800&v=beta&t=fdl4X_pk6ChPJW1cO4f1x4bpC8n4v1E-edS6Bf3mqW4" width="250px" height="135">
   </a>
-    <a href="https://github.com/AndreiHammes">
+    <a href="https://andreihammes.github.io/projeto-joji/" target="_blank">
     <img src="https://media.licdn.com/dms/image/C4D22AQF4NzG7Z7wK8A/feedshare-shrink_800/0/1678945220029?e=1715212800&v=beta&t=7GUSzXYFHBVC0tTZfrA5MKiwOUTdTyL7PajZuL_184g" width="250px" height="135">
   </a>
-  <a href="https://github.com/AndreiHammes">
+  <a href="https://andreihammes.github.io/Pokedex/" target="_blank">
     <img src="https://raw.githubusercontent.com/AndreiHammes/Pokedex/main/src/img/readme-img.png" width="250px" height="135">
   </a>
 
