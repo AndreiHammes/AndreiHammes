@@ -25,7 +25,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode,notion&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,git,github,vscode,notion&perline=14" />
 </div>
 
 <br>
