@@ -38,11 +38,6 @@
 
 </div>
 
-<div align="center">
-  
-## Contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/andrei-hammes/)
-</div>
 
 ![snake gif](https://github.com/AndreiHammes/AndreiHammes/blob/output/github-contribution-grid-snake-dark.svg.gif)
 
