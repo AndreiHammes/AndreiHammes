@@ -28,11 +28,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,py,java,git&perline=14" />
 </div>
 
+<br>
+<br>
+
 ### O que estou ouvindo — Spotify 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22azzpc3g3whsq5vlnkrctj6q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-
-<br>
 
 ![snake gif](https://github.com/AndreiHammes/AndreiHammes/blob/output/github-contribution-grid-snake-dark.svg.gif)
 
