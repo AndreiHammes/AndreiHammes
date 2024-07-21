@@ -17,7 +17,9 @@
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreihammes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreihammes&theme=midnight-purple&hide_border=false&&layout=compact"/>
 </div>
+<br>
 
+<p align="center">📚 Olá, atualmente, estou buscando oportunidades na área de desenvolvimento como desenvolvedor. Sou um estudante de programação finalizando um curso técnico presencial de Informática para Internet e realizando uma graduação de análise e desenvolvimento de sistemas na Unisinos. Iniciei meus estudos tendo contato com lógica de programação em portugol , e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de cursos online. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento. 
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
