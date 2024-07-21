@@ -1,3 +1,8 @@
+### O que estou ouvindo — Spotify 🎧
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22azzpc3g3whsq5vlnkrctj6q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=42C920&lines=Hello,+I+am+Andrei+💫;I+am+a+Full-Stack+developer+💻;welcome+to+my+profile+" alt="Typing SVG">
@@ -31,8 +36,6 @@
 <br>
 <br>
 
-### O que estou ouvindo — Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22azzpc3g3whsq5vlnkrctj6q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ![snake gif](https://github.com/AndreiHammes/AndreiHammes/blob/output/github-contribution-grid-snake-dark.svg.gif)
