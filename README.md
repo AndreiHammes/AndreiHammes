@@ -1,11 +1,3 @@
-<div align="center">
-  
-### O que estou ouvindo — Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22azzpc3g3whsq5vlnkrctj6q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-
 
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
@@ -39,6 +31,13 @@
 
 <br>
 <br>
+
+<div align="center">
+  
+### O que estou ouvindo — Spotify 🎧
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22azzpc3g3whsq5vlnkrctj6q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 
 
 
