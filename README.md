@@ -30,7 +30,10 @@
 
 <br>
 
-![snake gif](https://github.com/AndreiHammes/AndreiHammes/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AndreiHammes/AndreiHammes/blob/output/github-contribution-grid-snake-dark.svg.gif)
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViictorrMillan/ViictorrMillan/output/github-contribution-grid-snake-dark.svg" />
+
 
 
 
