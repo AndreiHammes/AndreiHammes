@@ -1,4 +1,3 @@
-
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=42C920&lines=Hello,+I+am+Andrei+💫;I+am+a+Full-Stack+developer+💻;welcome+to+my+profile+" alt="Typing SVG">
@@ -9,6 +8,7 @@
   <img src="https://media.giphy.com/media/vGWZEktceb6HS/giphy.gif" width="30">
   Andrei Hammes <img src="https://media.giphy.com/media/vGWZEktceb6HS/giphy.gif" width="30">
 </h1>
+
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
@@ -38,6 +38,7 @@
 
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreiHammes&color=blue" alt="Profile views" /></p>
 
 ![snake gif](https://github.com/AndreiHammes/AndreiHammes/blob/output/github-contribution-grid-snake-dark.svg.gif)
 
