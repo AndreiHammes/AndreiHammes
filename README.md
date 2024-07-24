@@ -18,6 +18,7 @@
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreihammes&theme=midnight-purple&hide_border=false&&layout=compact"/>
 </div>
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreiHammes&color=blue" alt="Profile views" /></p>
 
 <p align="center">📚 Olá, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação finalizando um curso técnico presencial de Informática para Internet e realizando uma graduação de análise e desenvolvimento de sistemas na Unisinos. Iniciei meus estudos tendo contato com lógica de programação em portugol , e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de cursos online. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento. 
 
@@ -37,8 +38,6 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22azzpc3g3whsq5vlnkrctj6q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreiHammes&color=blue" alt="Profile views" /></p>
 
 ![snake gif](https://github.com/AndreiHammes/AndreiHammes/blob/output/github-contribution-grid-snake-dark.svg.gif)
 
