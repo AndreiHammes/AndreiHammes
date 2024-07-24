@@ -29,7 +29,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,git&perline=14" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,java,git&perline=14" />
 </div>
 
 <div align="center">
