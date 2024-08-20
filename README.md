@@ -10,6 +10,7 @@
 </h1>
 
 
+
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <div align="center">
@@ -20,17 +21,27 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreiHammes&color=blueviolet" alt="Profile views" /></p>
 
+
+
 <p align="center">📚 Olá, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação finalizando um curso técnico presencial de Informática para Internet e realizando uma graduação de análise e desenvolvimento de sistemas na Unisinos. Iniciei meus estudos tendo contato com lógica de programação em portugol , e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de cursos online. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento. 
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
-  Skills
-  <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
-</h1>
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,java,git&perline=14" />
+  <table>
+    <tr>
+      <!-- Coluna 1: Ícones das Skills -->
+      <td align="center" width="45%">
+        <img src="https://skillicons.dev/icons?i=py,js,html,css,java,git&perline=14" />
+      </td>
+      <!-- Coluna 2: GIF -->
+      <td align="center" width="55%">
+        <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViictorrMillan/ViictorrMillan/output/github-contribution-grid-snake-dark.svg" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <div align="center">
   
@@ -39,15 +50,11 @@
 
 </div>
 
-![snake gif](https://github.com/AndreiHammes/AndreiHammes/blob/output/github-contribution-grid-snake-dark.svg.gif)
+<br>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViictorrMillan/ViictorrMillan/output/github-contribution-grid-snake-dark.svg" />
-
-
-
-
-
-
-
-
+<div  align = "center">
+  
+![coraline-dad](https://github.com/user-attachments/assets/003676d7-b6ee-4fdf-b57d-4de955eb59b2)
+  
+</div>
 
