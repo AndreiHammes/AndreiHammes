@@ -50,11 +50,3 @@
 
 </div>
 
-<br>
-
-<div  align = "center">
-  
-![coraline-dad](https://github.com/user-attachments/assets/003676d7-b6ee-4fdf-b57d-4de955eb59b2)
-  
-</div>
-
