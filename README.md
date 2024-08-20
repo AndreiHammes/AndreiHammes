@@ -22,15 +22,15 @@
 
 <p align="center">📚 Olá, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação finalizando um curso técnico presencial de Informática para Internet e realizando uma graduação de análise e desenvolvimento de sistemas na Unisinos. Iniciei meus estudos tendo contato com lógica de programação em portugol , e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de cursos online. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento. 
 
-<h3 align="center">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
   Skills
-</h3>
+  <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
+</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,java,git&perline=14" />
 </div>
-
-<br>
 
 <div align="center">
   
