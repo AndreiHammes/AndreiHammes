@@ -22,7 +22,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreiHammes&color=blueviolet" alt="Profile views" /></p>
 <p align="center">📚 Olá, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação finalizando um curso técnico presencial de Informática para Internet e realizando uma graduação de análise e desenvolvimento de sistemas na Unisinos. Iniciei meus estudos tendo contato com lógica de programação em portugol, e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de cursos online. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento. 
-
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br>
 
 ### Me contate por esses links ⬇️
@@ -34,11 +36,7 @@
 > 🌲 Você pode encontrar todos os meus links no <a href="https://linktr.ee/andreihammes" target="_blank">Linktree</a>. <br> <br>
 
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
-  Skills
-  <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
-</h1>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,java,git&perline=14" />
