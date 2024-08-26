@@ -39,6 +39,18 @@
 
 </div>
 
-![snake gif](https://github.com/AndreiHammes/AndreiHammes/blob/output/github-contribution-grid-snake-dark.svg.gif)
 
+### Me contate por esses links ⬇️
+<a href="https://www.instagram.com/andreihammes/?igsh=MWhoYzZwZnhoeWFlNw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A020F0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:andreihammes1067@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23A020F0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andrei-hammes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23A020F0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+> [!TIP]  
+> 🌲 Você pode encontrar todos os meus links no [Linktree](https://linktr.ee/andreihammes). <br>
+
+
+
+![snake gif](https://github.com/AndreiHammes/AndreiHammes/blob/output/github-contribution-grid-snake-dark.svg.gif)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Minhas contribuições:
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViictorrMillan/ViictorrMillan/output/github-contribution-grid-snake-dark.svg" />
