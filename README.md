@@ -4,6 +4,7 @@
   </a>
 </div>
 
+
 <h1 align="center" style="margin-bottom: 0;">
   <img src="https://media.giphy.com/media/vGWZEktceb6HS/giphy.gif" width="30">
   Andrei Hammes <img src="https://media.giphy.com/media/vGWZEktceb6HS/giphy.gif" width="30">
@@ -18,7 +19,9 @@
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreihammes&theme=midnight-purple&hide_border=false&&layout=compact"/>
 </div>
 <br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreiHammes&color=blueviolet" alt="Profile views" /></p>
+<p align="center">📚 Olá, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação finalizando um curso técnico presencial de Informática para Internet e realizando uma graduação de análise e desenvolvimento de sistemas na Unisinos. Iniciei meus estudos tendo contato com lógica de programação em portugol, e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de cursos online. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento. 
 
 ### Me contate por esses links ⬇️
 <a href="https://www.instagram.com/andreihammes/?igsh=MWhoYzZwZnhoeWFlNw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A020F0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,7 +31,6 @@
 > [!TIP]  
 > 🌲 Você pode encontrar todos os meus links no <a href="https://linktr.ee/andreihammes" target="_blank">Linktree</a>. <br> <br>
 
-<p align="center">📚 Olá, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação finalizando um curso técnico presencial de Informática para Internet e realizando uma graduação de análise e desenvolvimento de sistemas na Unisinos. Iniciei meus estudos tendo contato com lógica de programação em portugol, e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de cursos online. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento. 
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/mPJZA10THoWoTbW8uV/giphy.gif" width="30">
