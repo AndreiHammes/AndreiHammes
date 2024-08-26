@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=42C920&lines=Hello,+I+am+Andrei+💫;I+am+a+Full-Stack+developer+💻;welcome+to+my+profile+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=A020F0&lines=Hello,+I+am+Andrei+💫;I+am+a+Full-Stack+developer+💻;welcome+to+my+profile+" alt="Typing SVG">
   </a>
 </div>
 
@@ -25,9 +25,8 @@
 <a href="mailto:andreihammes1067@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23A020F0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andrei-hammes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23A020F0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
 > [!TIP]  
-> 🌲 Você pode encontrar todos os meus links no [Linktree](https://linktr.ee/andreihammes). <br> <br>
+> 🌲 Você pode encontrar todos os meus links no <a href="https://linktr.ee/andreihammes" target="_blank">Linktree</a>. <br> <br>
 
 <p align="center">📚 Olá, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação finalizando um curso técnico presencial de Informática para Internet e realizando uma graduação de análise e desenvolvimento de sistemas na Unisinos. Iniciei meus estudos tendo contato com lógica de programação em portugol, e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de cursos online. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento. 
 
