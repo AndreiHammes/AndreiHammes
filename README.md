@@ -42,6 +42,7 @@
   <img src="https://skillicons.dev/icons?i=py,js,html,css,java,git&perline=14" />
 </div>
 
+<br> <br>
 <div align="center">
   
 ### O que estou ouvindo — Spotify 🎧 
