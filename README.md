@@ -20,6 +20,15 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AndreiHammes&color=blueviolet" alt="Profile views" /></p>
 
+### Me contate por esses links ⬇️
+<a href="https://www.instagram.com/andreihammes/?igsh=MWhoYzZwZnhoeWFlNw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A020F0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:andreihammes1067@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23A020F0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andrei-hammes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23A020F0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+> [!TIP]  
+> 🌲 Você pode encontrar todos os meus links no [Linktree](https://linktr.ee/andreihammes). <br> <br>
+
 <p align="center">📚 Olá, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação finalizando um curso técnico presencial de Informática para Internet e realizando uma graduação de análise e desenvolvimento de sistemas na Unisinos. Iniciei meus estudos tendo contato com lógica de programação em portugol, e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de cursos online. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento. 
 
 <h1 align="center">
@@ -39,15 +48,6 @@
 
 </div>
 
-
-### Me contate por esses links ⬇️
-<a href="https://www.instagram.com/andreihammes/?igsh=MWhoYzZwZnhoeWFlNw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A020F0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:andreihammes1067@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23A020F0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andrei-hammes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23A020F0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
-> [!TIP]  
-> 🌲 Você pode encontrar todos os meus links no [Linktree](https://linktr.ee/andreihammes). <br>
 
 
 
