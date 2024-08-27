@@ -1,15 +1,8 @@
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=A020F0&lines=Hello,+I+am+Andrei+💫;I+am+a+Full-Stack+developer+💻;welcome+to+my+profile+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=A020F0&lines=Hello,+I+am+Andrei+👋;I+am+a+Full-Stack+developer+💻;Welcome+to+my+profile+😁+" alt="Typing SVG">
   </a>
 </div>
-
-
-<h1 align="center" style="margin-bottom: 0;">
-  <img src="https://media.giphy.com/media/vGWZEktceb6HS/giphy.gif" width="30">
-  Andrei Hammes <img src="https://media.giphy.com/media/vGWZEktceb6HS/giphy.gif" width="30">
-</h1>
-
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
