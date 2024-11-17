@@ -38,7 +38,10 @@
   <img alt="pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 </div>
 
- `Python` `HTML` `CSS` `Javascript` `MySQL` `Git` `Numpy` `Pandas`
+<span style="font-size: 50px">
+  
+  `Python` `HTML` `CSS` `Javascript` `MySQL` `Git` `Numpy` `Pandas`
+</span>
 
 <br> <br>
 <div align="center">
