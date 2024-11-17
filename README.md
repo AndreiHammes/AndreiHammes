@@ -18,7 +18,7 @@
 <p align="center">📚 Atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação realizando uma graduação de análise e desenvolvimento de sistemas na Unisinos. Iniciei meus estudos tendo contato com lógica de programação em Portugol, e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de cursos online. Busco aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento.
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
 <br>
 
 ### Me contate por esses links ⬇️
@@ -37,8 +37,6 @@
   <img alt="numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img alt="pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 </div>
-
-
 
 
 <br> <br>
