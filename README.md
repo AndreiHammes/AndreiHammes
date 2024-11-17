@@ -33,8 +33,7 @@
 <br>
 
 <div align="">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,git&perline=14" />
-  <img alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,git&perline=14" />
   <img alt="numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img alt="pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 </div>
