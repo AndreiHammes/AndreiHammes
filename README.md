@@ -32,9 +32,16 @@
 
 <br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,java,git&perline=14" />
+<div align="">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git&perline=14" />
+  <img alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img alt="numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img alt="pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 </div>
+
+  `Python` `Javascript` `HTML` `CSS` `MySQL` `Git` `Numpy` `Pandas`
+
+
 
 <br> <br>
 <div align="center">
