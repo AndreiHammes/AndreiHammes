@@ -15,7 +15,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AndreiHammes&color=blueviolet" alt="Profile views" /></p>
 
-<p align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos e possuo curso técnico completo de Informática para Internet. Em 2024 fui finalista do programa Geração Caldeira, onde tive foquei no estudo da linguagem Python e análise de dados. Iniciei meus estudos com lógica de programação em Portugol e linguagem C a cerca de 2 anos atrás, e venho expandindo meus conhecimentos em diversas linguagens e habilidades por meio de cursos e projetos online. Meu objetivo é aplicar esses conhecimentos em projetos práticos e colaborar com equipes de desenvolvimento.
+<p align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos e possuo curso técnico completo de Informática para Internet. Em 2024 fui finalista do programa Geração Caldeira, onde foquei no estudo da linguagem Python e análise de dados. Iniciei meus estudos com lógica de programação em Portugol e linguagem C a cerca de 2 anos atrás, e venho expandindo meus conhecimentos em diversas linguagens e habilidades por meio de cursos e projetos online. Meu objetivo é aplicar esses conhecimentos em projetos práticos e colaborar com equipes de desenvolvimento.
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
