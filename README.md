@@ -20,6 +20,11 @@
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
 <br>
+  <div align="center">
+    
+  ![Codewars](https://github.r2v.ch/codewars?user=Andrei%20Hammes&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+</div>
+
 
 ### Me contate por esses links ⬇️
 <a href="https://www.instagram.com/andreihammes/?igsh=MWhoYzZwZnhoeWFlNw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A020F0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
