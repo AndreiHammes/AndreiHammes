@@ -15,7 +15,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AndreiHammes&color=blueviolet" alt="Profile views" /></p>
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unisinos com formação técnica em Informática para Internet. Minha jornada na tecnologia começou com lógica em Portugol e, desde então, venho construindo uma base sólida em programação, explorando linguagens e ferramentas de desenvolvimento de software, engenharia e análise de dados e programação front end. Em 2024, fui finalista do programa <a href="https://www.geracaocaldeira.org/">Geração Caldeira</a>, onde aprofundei meus conhecimentos em Python e análise de dados. Busco aplicar minha experiência em projetos práticos, utilizando ferramentas como SQL e Git para colaborar efetivamente em equipes de desenvolvimento.
+<p align="center">Como estudante de Análise e Desenvolvimento de Sistemas na Unisinos, estou constantemente construindo minha carreira como desenvolvedor através das minhas experiências, estudos e contato com a comunidade. Atualmente venho construindo uma base sólida em programação, reforçando bases lógicas para a construção de soluções e sistemas. Em 2024, fui finalista do programa <a href="https://www.geracaocaldeira.org/" text-decoration:none >Geração Caldeira</a>, onde aprofundei meus conhecimentos em Python e análise de dados, um marco importante na minha carreira. Busco aplicar minha experiência em projetos práticos, colaborando efetivamente em equipes de desenvolvimento.
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
