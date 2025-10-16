@@ -18,7 +18,7 @@
 <p align="center">Como estudante de Análise e Desenvolvimento de Sistemas na Unisinos, estou constantemente construindo minha carreira como desenvolvedor através das minhas experiências, estudos e contato com a comunidade. Atualmente venho construindo uma base sólida em programação, reforçando bases lógicas para a construção de soluções e sistemas. Em 2024, fui finalista do programa <a href="https://www.geracaocaldeira.org/" text-decoration:none >Geração Caldeira</a>, onde aprofundei meus conhecimentos em Python e análise de dados, um marco importante na minha carreira. Busco aplicar minha experiência em projetos práticos, colaborando efetivamente em equipes de desenvolvimento.
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa283dWMzbHJuNnIzYnY2Y3RzYWRxZnh3c29uZnh3d2Z5NXZmdWUwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vPxUAQUPd3D3f3eJUu/giphy.gif" alt="ilustração de um computador" width="200px" align="right">
 <br>
 
 
