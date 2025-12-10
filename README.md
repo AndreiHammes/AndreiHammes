@@ -79,7 +79,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, constru
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndreiHammes/AndreiHammes/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=AndreiHammes&color=blueviolet" alt="Profile views" /></p>
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=AndreiHammes&color=blueviolet" alt="Profile views" /></p> -->
 
 
 ```ascii
