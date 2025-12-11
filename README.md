@@ -22,10 +22,10 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, construindo minha carreira através de experiência prática e o senso de **colaboração** do ecossistema de tecnologia.
 
-* **💻 Experiência Prática:** Atuo como **assistente de projetos**, trabalhando ativamente com **Python**, **SQL**, construção de APIs, automações e análise de dados.
-* **🧠 Base Sólida:** Minha formação foca em construir uma forte base lógica para a criação de soluções e sistemas.
-* **⭐ Destaque:** Em 2024, participei do programa [Geração Caldeira](https://www.geracaocaldeira.org/), uma experiência que aprofundou meus conhecimentos em **Python** e me proporcionou contato com o ambiente real de desenvolvimento e a dinâmica de trabalho em equipe.
-* **🌱 Propósito:** Almejo contribuir com comunidades que promovem **educação gratuita e de qualidade**, utilizando a tecnologia para impactar positivamente a vida das pessoas, retribuindo o que me foi proporcionado.
+* Atuo como **assistente de projetos**, trabalhando ativamente com **Python**, **SQL**, construção de APIs, automações e análise de dados.
+* Minha formação foca em construir uma forte base lógica para a criação de soluções e sistemas.
+* Em 2024, participei do programa [Geração Caldeira](https://www.geracaocaldeira.org/), uma experiência que aprofundou meus conhecimentos em **Python** e me proporcionou contato com o ambiente real de desenvolvimento e a dinâmica de trabalho em equipe.
+* Almejo contribuir com comunidades que promovem **educação gratuita e de qualidade**, utilizando a tecnologia para impactar positivamente a vida das pessoas, retribuindo o que me foi proporcionado.
 <br>
 
 
