@@ -37,7 +37,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, constru
 <br>
 
 > [!TIP]  
-> 🌲 Você pode encontrar todos os meus links no <a href="https://linktr.ee/andreihammes" target="_blank">Linktree</a>. <br>
+> Você pode encontrar todos os meus links no <a href="https://linktr.ee/andreihammes" target="_blank">Linktree</a>. <br>
 
 
 <br>
@@ -63,19 +63,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, constru
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </div>
 
-
-
 <br> <br>
 <div align="center">
-
-```ASCII
-           __..--''``---....___   _..._    __
- /// //_.-'    .-/";  `        ``<._  ``.''_ `. / // /
-///_.-' _..--.'_    \                    `( ) ) // //
-/ (_..-' // (< _     ;_..__               ; `' / ///
- / // // //  `-._,_)' // / ``--...____..-' /// / //
-
-```
 
   
 ### O que estou ouvindo — Spotify 🎧 
