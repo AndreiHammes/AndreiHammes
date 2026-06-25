@@ -29,13 +29,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, constru
 <br>
 
 
-### 🌐 Me contate por esses links 
-<a href="https://www.instagram.com/andreihammes/?igsh=MWhoYzZwZnhoeWFlNw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23A020F0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:andreihammes1067@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23A020F0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andrei-hammes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23A020F0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<br>
-
 > [!TIP]  
 > Você pode encontrar todos os meus links no <a href="https://linktr.ee/andreihammes" target="_blank">Linktree</a>. <br>
 
@@ -46,8 +39,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, constru
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -55,10 +46,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, constru
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </div>
