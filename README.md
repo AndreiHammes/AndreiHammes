@@ -19,13 +19,13 @@
 
 ## 💡 Sobre Mim
 
+Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos, construindo minha carreira através de experiência prática e o senso de colaboração do ecossistema de tecnologia.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, construindo minha carreira através de experiência prática e o senso de **colaboração** do ecossistema de tecnologia.
-
-* Atuo como **assistente de projetos**, trabalhando ativamente com **Python**, **SQL**, construção de APIs, automações e análise de dados.
+* Atuo como Jovem Aprendiz em Engenharia de Software na Appmax, aprofundando conhecimentos em PHP, arquitetura de sistemas e boas práticas de desenvolvimento backend.
+Tenho experiência prévia com Python, SQL, construção de APIs e automações de processos.
 * Minha formação foca em construir uma forte base lógica para a criação de soluções e sistemas.
-* Em 2024, participei do programa [Geração Caldeira](https://www.geracaocaldeira.org/), uma experiência que aprofundou meus conhecimentos em **Python** e me proporcionou contato com o ambiente real de desenvolvimento e a dinâmica de trabalho em equipe.
-* Almejo contribuir com comunidades que promovem **educação gratuita e de qualidade**, utilizando a tecnologia para impactar positivamente a vida das pessoas, retribuindo o que me foi proporcionado.
+* Em 2024, participei do programa Geração Caldeira, uma experiência que aprofundou meus conhecimentos em Python e me proporcionou contato com o ambiente real de desenvolvimento e a dinâmica de trabalho em equipe.
+* Almejo contribuir com comunidades que promovem educação gratuita e de qualidade, utilizando a tecnologia para impactar positivamente a vida das pessoas, retribuindo o que me foi proporcionado.
 <br>
 
 
@@ -38,7 +38,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, constru
 ### 🛠️ Minhas Stacks e Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -50,6 +51,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unisinos, constru
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  
 </div>
 
 <br> <br>
