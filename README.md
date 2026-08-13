@@ -6,17 +6,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreihammes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreihammes&theme=midnight-purple&hide_border=false&&layout=compact"/>
-</div>
-<br>
-
-
-
 ## 💡 Sobre Mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos, construindo minha carreira através de experiência prática e o senso de colaboração do ecossistema de tecnologia.
