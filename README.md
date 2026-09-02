@@ -26,7 +26,7 @@ Tenho experiência prévia com Python, SQL, construção de APIs e automações 
 
 ### Minhas Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,python,html,css,mysql,git,docker,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,python,js,html,css,mysql,git,docker,linux,bash)](https://skillicons.dev)
 
 
 <!-- <div align="center">
