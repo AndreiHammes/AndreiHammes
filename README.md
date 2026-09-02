@@ -24,9 +24,12 @@ Tenho experiência prévia com Python, SQL, construção de APIs e automações 
 
 <br>
 
-### 🛠️ Minhas Stacks e Ferramentas
+### Minhas Stacks
 
-<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=php,js,python,html,css,mysql,git,docker,linux,bash)](https://skillicons.dev)
+
+
+<!-- <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -39,7 +42,7 @@ Tenho experiência prévia com Python, SQL, construção de APIs e automações 
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /> -->
   
 </div>
 
