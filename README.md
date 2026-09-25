@@ -10,7 +10,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos, construindo minha carreira através de experiência prática e o senso de colaboração do ecossistema de tecnologia.
 
-* Atuo como Jovem Aprendiz em Engenharia de Software na Appmax, aprofundando conhecimentos em PHP, arquitetura de sistemas e boas práticas de desenvolvimento backend.
+* Atuo como assistente em Engenharia de Software na Appmax, aprofundando conhecimentos em PHP, arquitetura de sistemas e boas práticas de desenvolvimento backend.
 Tenho experiência prévia com Python, SQL, construção de APIs e automações de processos.
 * Minha formação foca em construir uma forte base lógica para a criação de soluções e sistemas.
 * Em 2024, participei do programa Geração Caldeira, uma experiência que aprofundou meus conhecimentos em Python e me proporcionou contato com o ambiente real de desenvolvimento e a dinâmica de trabalho em equipe.
